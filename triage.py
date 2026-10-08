@@ -4,7 +4,7 @@ import re
 import os
 import sys
 
-#prova git DEFINITIVA
+#prova git con email
 
 scores = {}
 verdicts = []
