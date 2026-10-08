@@ -4,6 +4,8 @@ import re
 import os
 import sys
 
+#prova gitaaaaaaaaaaaaaaaaab
+
 scores = {}
 verdicts = []
 
