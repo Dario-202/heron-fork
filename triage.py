@@ -4,7 +4,7 @@ import re
 import os
 import sys
 
-#prova git log out
+#prova git DEFINITIVA
 
 scores = {}
 verdicts = []
